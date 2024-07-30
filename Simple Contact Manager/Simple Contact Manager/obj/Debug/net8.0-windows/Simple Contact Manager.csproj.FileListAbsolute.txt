@@ -1,0 +1,16 @@
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\assignment\Simple Contact Manager\Simple Contact Manager\bin\Debug\net8.0-windows\Simple Contact Manager.exe
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\assignment\Simple Contact Manager\Simple Contact Manager\bin\Debug\net8.0-windows\Simple Contact Manager.deps.json
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\assignment\Simple Contact Manager\Simple Contact Manager\bin\Debug\net8.0-windows\Simple Contact Manager.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\assignment\Simple Contact Manager\Simple Contact Manager\bin\Debug\net8.0-windows\Simple Contact Manager.dll
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\assignment\Simple Contact Manager\Simple Contact Manager\bin\Debug\net8.0-windows\Simple Contact Manager.pdb
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\assignment\Simple Contact Manager\Simple Contact Manager\obj\Debug\net8.0-windows\Simple_Contact_Manager.Form1.resources
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\assignment\Simple Contact Manager\Simple Contact Manager\obj\Debug\net8.0-windows\Simple Contact Manager.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\assignment\Simple Contact Manager\Simple Contact Manager\obj\Debug\net8.0-windows\Simple Contact Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\assignment\Simple Contact Manager\Simple Contact Manager\obj\Debug\net8.0-windows\Simple Contact Manager.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\assignment\Simple Contact Manager\Simple Contact Manager\obj\Debug\net8.0-windows\Simple Contact Manager.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\assignment\Simple Contact Manager\Simple Contact Manager\obj\Debug\net8.0-windows\Simple Contact Manager.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\assignment\Simple Contact Manager\Simple Contact Manager\obj\Debug\net8.0-windows\Simple Contact Manager.dll
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\assignment\Simple Contact Manager\Simple Contact Manager\obj\Debug\net8.0-windows\refint\Simple Contact Manager.dll
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\assignment\Simple Contact Manager\Simple Contact Manager\obj\Debug\net8.0-windows\Simple Contact Manager.pdb
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\assignment\Simple Contact Manager\Simple Contact Manager\obj\Debug\net8.0-windows\Simple Contact Manager.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\assignment\Simple Contact Manager\Simple Contact Manager\obj\Debug\net8.0-windows\ref\Simple Contact Manager.dll

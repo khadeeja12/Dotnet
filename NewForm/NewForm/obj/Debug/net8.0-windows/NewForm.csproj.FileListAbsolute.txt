@@ -1,0 +1,16 @@
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\NewForm\NewForm\bin\Debug\net8.0-windows\NewForm.exe
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\NewForm\NewForm\bin\Debug\net8.0-windows\NewForm.deps.json
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\NewForm\NewForm\bin\Debug\net8.0-windows\NewForm.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\NewForm\NewForm\bin\Debug\net8.0-windows\NewForm.dll
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\NewForm\NewForm\bin\Debug\net8.0-windows\NewForm.pdb
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\NewForm\NewForm\obj\Debug\net8.0-windows\NewForm.Form1.resources
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\NewForm\NewForm\obj\Debug\net8.0-windows\NewForm.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\NewForm\NewForm\obj\Debug\net8.0-windows\NewForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\NewForm\NewForm\obj\Debug\net8.0-windows\NewForm.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\NewForm\NewForm\obj\Debug\net8.0-windows\NewForm.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\NewForm\NewForm\obj\Debug\net8.0-windows\NewForm.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\NewForm\NewForm\obj\Debug\net8.0-windows\NewForm.dll
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\NewForm\NewForm\obj\Debug\net8.0-windows\refint\NewForm.dll
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\NewForm\NewForm\obj\Debug\net8.0-windows\NewForm.pdb
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\NewForm\NewForm\obj\Debug\net8.0-windows\NewForm.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\NewForm\NewForm\obj\Debug\net8.0-windows\ref\NewForm.dll
