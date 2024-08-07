@@ -1,0 +1,25 @@
+D:\MCA_PROGRAMS\3rdSEM\dotNET\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.AssemblyReference.cache
+D:\MCA_PROGRAMS\3rdSEM\dotNET\StudentManagementApp\obj\Debug\StudentManagementApp.Properties.Resources.resources
+D:\MCA_PROGRAMS\3rdSEM\dotNET\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.GenerateResource.cache
+D:\MCA_PROGRAMS\3rdSEM\dotNET\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.CoreCompileInputs.cache
+D:\MCA_PROGRAMS\3rdSEM\dotNET\StudentManagementApp\bin\Debug\StudentManagementApp.exe.config
+D:\MCA_PROGRAMS\3rdSEM\dotNET\StudentManagementApp\bin\Debug\StudentManagementApp.exe
+D:\MCA_PROGRAMS\3rdSEM\dotNET\StudentManagementApp\bin\Debug\StudentManagementApp.pdb
+D:\MCA_PROGRAMS\3rdSEM\dotNET\StudentManagementApp\obj\Debug\StudentManagementApp.exe
+D:\MCA_PROGRAMS\3rdSEM\dotNET\StudentManagementApp\obj\Debug\StudentManagementApp.pdb
+D:\MCA_PROGRAMS\3rdSEM\dotNET\StudentManagementApp\obj\Debug\StudentManagementApp.MainForm.resources
+D:\MCA_PROGRAMS\3rdSEM\dotNET\StudentManagementApp\obj\Debug\StudentManagementApp.LoginForm.resources
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\StudentManagementApp\bin\Debug\StudentManagementApp.exe.config
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\StudentManagementApp\bin\Debug\StudentManagementApp.exe
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\StudentManagementApp\bin\Debug\StudentManagementApp.pdb
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\StudentManagementApp\obj\Debug\StudentManagementApp.LoginForm.resources
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\StudentManagementApp\obj\Debug\StudentManagementApp.MainForm.resources
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\StudentManagementApp\obj\Debug\StudentManagementApp.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\StudentManagementApp\obj\Debug\StudentManagementApp.exe
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\StudentManagementApp\obj\Debug\StudentManagementApp.pdb
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\StudentManagementApp\obj\Debug\StudentManagementApp.AddMarksForm.resources
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\StudentManagementApp\obj\Debug\StudentManagementApp.RegistrationForm.resources
+C:\Users\hp\OneDrive\Desktop\Dotnet Forms\StudentManagementApp\obj\Debug\StudentManagementApp.ViewMarksForm.resources

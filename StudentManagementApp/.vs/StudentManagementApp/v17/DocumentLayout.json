@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet forms\\studentmanagementapp\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|solutionrelative:registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|solutionrelative:registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\viewmarksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|solutionrelative:viewmarksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\addmarksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|solutionrelative:addmarksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\addmarksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|solutionrelative:addmarksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\viewmarksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|solutionrelative:viewmarksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\registrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|solutionrelative:registrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC8FB3E-1038-4A5A-A60A-DA3DE5B9B0DE}|StudentManagementApp.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\RegistrationForm.cs",
+              "RelativeToolTip": "RegistrationForm.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAADwvzwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:51:20.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddMarksForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\AddMarksForm.cs",
+              "RelativeDocumentMoniker": "AddMarksForm.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\AddMarksForm.cs [Design]",
+              "RelativeToolTip": "AddMarksForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:18:42.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewMarksForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\ViewMarksForm.cs",
+              "RelativeDocumentMoniker": "ViewMarksForm.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\ViewMarksForm.cs",
+              "RelativeToolTip": "ViewMarksForm.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwFMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:25:18.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\RegistrationForm.cs [Design]",
+              "RelativeToolTip": "RegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:51:13.641Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:51:38.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:46:59.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddMarksForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\AddMarksForm.cs",
+              "RelativeDocumentMoniker": "AddMarksForm.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\AddMarksForm.cs",
+              "RelativeToolTip": "AddMarksForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:20:21.459Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:52:41.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:47:02.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewMarksForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\ViewMarksForm.cs",
+              "RelativeDocumentMoniker": "ViewMarksForm.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\ViewMarksForm.cs [Design]",
+              "RelativeToolTip": "ViewMarksForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:19:13.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistrationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\RegistrationForm.Designer.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\RegistrationForm.Designer.cs",
+              "RelativeToolTip": "RegistrationForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:51:11.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Dotnet Forms\\StudentManagementApp\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:46:55.593Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
