@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\FirstForm\\LoginForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{443D9D13-4575-49C4-BC53-2522A571AACD}|LoginForm\\LoginForm.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\dotnet forms\\web forms\\firstform\\loginform\\loginform\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{443D9D13-4575-49C4-BC53-2522A571AACD}|LoginForm\\LoginForm.csproj|solutionrelative:loginform\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{443D9D13-4575-49C4-BC53-2522A571AACD}|LoginForm\\LoginForm.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\dotnet forms\\web forms\\firstform\\loginform\\loginform\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443D9D13-4575-49C4-BC53-2522A571AACD}|LoginForm\\LoginForm.csproj|solutionrelative:loginform\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\FirstForm\\LoginForm\\LoginForm\\Default.aspx",
+              "RelativeDocumentMoniker": "LoginForm\\Default.aspx",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\FirstForm\\LoginForm\\LoginForm\\Default.aspx",
+              "RelativeToolTip": "LoginForm\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-27T01:12:00.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\FirstForm\\LoginForm\\LoginForm\\Default.aspx.designer.cs",
+              "RelativeDocumentMoniker": "LoginForm\\Default.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\FirstForm\\LoginForm\\LoginForm\\Default.aspx.designer.cs",
+              "RelativeToolTip": "LoginForm\\Default.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:11:56.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
