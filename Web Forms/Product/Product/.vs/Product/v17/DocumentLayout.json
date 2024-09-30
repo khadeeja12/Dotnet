@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\dotnet forms\\web forms\\product\\product\\product\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|solutionrelative:product\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\dotnet forms\\web forms\\product\\product\\product\\viewproducts.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|solutionrelative:product\\viewproducts.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\dotnet forms\\web forms\\product\\product\\product\\viewproducts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|solutionrelative:product\\viewproducts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\dotnet forms\\web forms\\product\\product\\product\\viewproducts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|solutionrelative:product\\viewproducts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\dotnet forms\\web forms\\product\\product\\product\\welcome.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|solutionrelative:product\\welcome.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\dotnet forms\\web forms\\product\\product\\product\\welcome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|solutionrelative:product\\welcome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\dotnet forms\\web forms\\product\\product\\product\\welcome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|solutionrelative:product\\welcome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\dotnet forms\\web forms\\product\\product\\product\\webform2.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|solutionrelative:product\\webform2.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\dotnet forms\\web forms\\product\\product\\product\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|solutionrelative:product\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\dotnet forms\\web forms\\product\\product\\product\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|solutionrelative:product\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\dotnet forms\\web forms\\product\\product\\product\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|solutionrelative:product\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\dotnet forms\\web forms\\product\\product\\product\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|solutionrelative:product\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\dotnet forms\\web forms\\product\\product\\product\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|solutionrelative:product\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\dotnet forms\\web forms\\product\\product\\product\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|solutionrelative:product\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\dotnet forms\\web forms\\product\\product\\product\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|solutionrelative:product\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\dotnet forms\\web forms\\product\\product\\product\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|solutionrelative:product\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|c:\\users\\hp\\onedrive\\desktop\\git\\dotnet forms\\web forms\\product\\product\\product\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A376E060-8AE2-4ABE-AF83-62DF35FE2E35}|Product\\Product.csproj|solutionrelative:product\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewProducts.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\ViewProducts.aspx",
+              "RelativeDocumentMoniker": "Product\\ViewProducts.aspx",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\ViewProducts.aspx",
+              "RelativeToolTip": "Product\\ViewProducts.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-20T10:41:22.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewProducts.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\ViewProducts.aspx.cs",
+              "RelativeDocumentMoniker": "Product\\ViewProducts.aspx.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\ViewProducts.aspx.cs",
+              "RelativeToolTip": "Product\\ViewProducts.aspx.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAADwv7MAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:42:51.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewProducts.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\ViewProducts.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Product\\ViewProducts.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\ViewProducts.aspx.designer.cs",
+              "RelativeToolTip": "Product\\ViewProducts.aspx.designer.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwCUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:59:19.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\Web.config",
+              "RelativeDocumentMoniker": "Product\\Web.config",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\Web.config",
+              "RelativeToolTip": "Product\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-20T10:15:48.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Welcome.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\Welcome.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Product\\Welcome.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\Welcome.aspx.designer.cs",
+              "RelativeToolTip": "Product\\Welcome.aspx.designer.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwEEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:47:22.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Welcome.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\Welcome.aspx.cs",
+              "RelativeDocumentMoniker": "Product\\Welcome.aspx.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\Welcome.aspx.cs",
+              "RelativeToolTip": "Product\\Welcome.aspx.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAADwvzEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:46:46.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Welcome.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\Welcome.aspx",
+              "RelativeDocumentMoniker": "Product\\Welcome.aspx",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\Welcome.aspx",
+              "RelativeToolTip": "Product\\Welcome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-20T08:46:08.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebForm2.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\WebForm2.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Product\\WebForm2.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\WebForm2.aspx.designer.cs",
+              "RelativeToolTip": "Product\\WebForm2.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:57:25.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebForm2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\WebForm2.aspx.cs",
+              "RelativeDocumentMoniker": "Product\\WebForm2.aspx.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\WebForm2.aspx.cs",
+              "RelativeToolTip": "Product\\WebForm2.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:45:06.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "Product\\WebForm2.aspx",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\WebForm2.aspx",
+              "RelativeToolTip": "Product\\WebForm2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-20T08:45:02.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebForm1.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\WebForm1.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Product\\WebForm1.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\WebForm1.aspx.designer.cs",
+              "RelativeToolTip": "Product\\WebForm1.aspx.designer.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwEcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:47:56.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "Product\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\WebForm1.aspx.cs",
+              "RelativeToolTip": "Product\\WebForm1.aspx.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwDAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:42:55.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Product\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\WebForm1.aspx",
+              "RelativeToolTip": "Product\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-20T08:42:16.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Default.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\Default.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Product\\Default.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\Default.aspx.designer.cs",
+              "RelativeToolTip": "Product\\Default.aspx.designer.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAIwGEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:40:14.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Product\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\Default.aspx.cs",
+              "RelativeToolTip": "Product\\Default.aspx.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwCkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:38:54.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\Default.aspx",
+              "RelativeDocumentMoniker": "Product\\Default.aspx",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\Default.aspx",
+              "RelativeToolTip": "Product\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-20T08:33:55.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\Contact.aspx",
+              "RelativeDocumentMoniker": "Product\\Contact.aspx",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\git\\Dotnet Forms\\Web Forms\\Product\\Product\\Product\\Contact.aspx",
+              "RelativeToolTip": "Product\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-20T09:09:13.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
